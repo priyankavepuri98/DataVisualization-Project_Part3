@@ -1,0 +1,69 @@
+SITE,SEX,SUM
+Anaplastic astrocytoma,Female,364.0
+Anaplastic astrocytoma,Male,340.0
+"Astrocytoma, NOS",Female,8574.0
+"Astrocytoma, NOS",Male,10858.0
+Choroid plexus,Female,2230.0
+Choroid plexus,Male,2805.0
+Craniopharyngioma,Female,8344.0
+Craniopharyngioma,Male,10109.0
+Diffuse astrocytoma,Female,1018.0
+Diffuse astrocytoma,Male,995.0
+Embryonal/primitive/medulloblastoma,Female,4247.0
+Embryonal/primitive/medulloblastoma,Male,4163.0
+Ependymoma variants,Female,1415.0
+Ependymoma variants,Male,1955.0
+Ependymoma/anaplastic ependymoma,Female,3833.0
+Ependymoma/anaplastic ependymoma,Male,5661.0
+Germ Cell Tumors,Female,1750.0
+Germ Cell Tumors,Male,2386.0
+Glioblastoma,Female,5329.0
+Glioblastoma,Male,5911.0
+"Glioma malignant, NOS",Female,1194.0
+"Glioma malignant, NOS",Male,2938.0
+Hemangioblastoma,Female,65855.0
+Hemangioblastoma,Male,89082.0
+Hemangioma,Female,10332.0
+Hemangioma,Male,10602.0
+Meningioma,Female,3385.0
+Meningioma,Male,4113.0
+Mixed glioma,Female,7894.0
+Mixed glioma,Male,6004.0
+"Neoplasm, unspecified",Female,260.0
+"Neoplasm, unspecified",Male,369.0
+"Nerve sheath, benign and malignant",Female,10078.0
+"Nerve sheath, benign and malignant",Male,10951.0
+"Neuronal/glial, neuronal",Female,291029.0
+"Neuronal/glial, neuronal",Male,104362.0
+Oligodendroglioma,Female,3022.0
+Oligodendroglioma,Male,4009.0
+Other mesenchymal,Female,22221.0
+Other mesenchymal,Male,18233.0
+Pilocytic astrocytoma,Female,47809.0
+Pilocytic astrocytoma,Male,44004.0
+Pineal parenchymal,Female,304.0
+Pineal parenchymal,Male,366.0
+Pituitary,Female,5555.0
+Pituitary,Male,6127.0
+Tumors of Cranial and Spinal Nerves,Female,4998.0
+Tumors of Cranial and Spinal Nerves,Male,6255.0
+Tumors of Neuroepthelial Tissue,Female,2228.0
+Tumors of Neuroepthelial Tissue,Male,2110.0
+Tumors of Sellar Region,Female,6956.0
+Tumors of Sellar Region,Male,7471.0
+Tumors of the Meninges,Female,914.0
+Tumors of the Meninges,Male,596.0
+Unclassified Tumors,Female,94830.0
+Unclassified Tumors,Male,75666.0
+Unique astrocytoma variants,Female,47839.0
+Unique astrocytoma variants,Male,44043.0
+All other,Female,133853.0
+All other,Male,169761.0
+Anaplastic oligodendroglioma,Female,99095.0
+Anaplastic oligodendroglioma,Male,79834.0
+Local Extensions from Regional Tumors,Female,296762.0
+Local Extensions from Regional Tumors,Male,110693.0
+Lymphomas and Hematopoietic Neoplasms,Female,30308.0
+Lymphomas and Hematopoietic Neoplasms,Male,24445.0
+Neuroepithelial,Female,2087.0
+Neuroepithelial,Male,3395.0
